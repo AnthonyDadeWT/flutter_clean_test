@@ -4,10 +4,10 @@
     minSdkVersion="19"
     targetSdkVersion="33"
     shrinking="true"
-    mergedManifest="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
-    manifestMergeReport="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/outputs/logs/manifest-merger-release-report.txt"
-    proguardFiles="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/Users/anthonydade/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
-    partialResultsDir="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/lint_vital_partial_results/release/out">
+    mergedManifest="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/merged_manifest/release/AndroidManifest.xml"
+    manifestMergeReport="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/default_proguard_files/global/proguard-android.txt-7.3.0:/Users/anthonydade/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/lint_vital_partial_results/release/out">
   <buildFeatures
       namespacing="REQUIRED"/>
   <sourceProviders>
@@ -32,9 +32,9 @@
         value="android.app.Application" />
   </manifestPlaceholders>
   <mainArtifact
-      classOutputs="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/javac/release/classes:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/tmp/kotlin-classes/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/kotlinToolingMetadata:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
+      classOutputs="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/javac/release/classes:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/tmp/kotlin-classes/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/kotlinToolingMetadata:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/R.jar"
       applicationId="com.example.flutter_clean_test"
-      generatedSourceFolders="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/ap_generated_sources/release/out:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/aidl_source_output_dir/release/out:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/source/buildConfig/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/renderscript_source_output_dir/release/out"
-      generatedResourceFolders="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/res/rs/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/generated/res/resValues/release">
+      generatedSourceFolders="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/ap_generated_sources/release/out:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/aidl_source_output_dir/release/out:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/source/buildConfig/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/renderscript_source_output_dir/release/out"
+      generatedResourceFolders="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/res/rs/release:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/generated/res/resValues/release">
   </mainArtifact>
 </variant>

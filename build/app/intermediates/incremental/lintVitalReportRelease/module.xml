@@ -1,11 +1,11 @@
 <lint-module
     format="1"
-    dir="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/android/app"
+    dir="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/android/app"
     name=":app"
     type="APP"
     maven="android:app:"
     gradle="7.3.0"
-    buildFolder="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app"
+    buildFolder="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app"
     bootClassPath="/Users/anthonydade/Library/Android/sdk/platforms/android-33/android.jar:/Users/anthonydade/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
     javaSourceLevel="1.8"
     compileTarget="android-33">

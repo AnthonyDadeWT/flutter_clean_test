@@ -1,13 +1,13 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/android@@:integration_test::release"
-      jars="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/integration_test/.transforms/75cbdf4f894ac9de37aa66411160f430/transformed/out/jars/classes.jar:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/integration_test/.transforms/75cbdf4f894ac9de37aa66411160f430/transformed/out/jars/libs/R.jar"
+      name="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/android@@:integration_test::release"
+      jars="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/integration_test/.transforms/63079d2b656e9c9181987a63e9696d00/transformed/out/jars/classes.jar:/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/integration_test/.transforms/63079d2b656e9c9181987a63e9696d00/transformed/out/jars/libs/R.jar"
       resolved="dev.flutter.plugins.integration_test:integration_test:unspecified"
-      folder="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/integration_test/.transforms/75cbdf4f894ac9de37aa66411160f430/transformed/out"
+      folder="/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/build/integration_test/.transforms/63079d2b656e9c9181987a63e9696d00/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

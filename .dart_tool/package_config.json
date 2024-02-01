@@ -44,20 +44,8 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "file",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/file-6.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "flutter",
       "rootUri": "file:///Users/anthonydade/flutter/packages/flutter",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "flutter_driver",
-      "rootUri": "file:///Users/anthonydade/flutter/packages/flutter_driver",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -70,18 +58,6 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/anthonydade/flutter/packages/flutter_test",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "fuchsia_remote_debug_protocol",
-      "rootUri": "file:///Users/anthonydade/flutter/packages/fuchsia_remote_debug_protocol",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "integration_test",
-      "rootUri": "file:///Users/anthonydade/flutter/packages/integration_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -116,18 +92,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "platform",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/platform-3.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "process",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/process-4.2.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///Users/anthonydade/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -158,12 +122,6 @@
       "languageVersion": "2.18"
     },
     {
-      "name": "sync_http",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/sync_http-0.3.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "term_glyph",
       "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
       "packageUri": "lib/",
@@ -182,22 +140,10 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "vm_service",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/vm_service-11.10.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "web",
       "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/web-0.3.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
-    },
-    {
-      "name": "webdriver",
-      "rootUri": "file:///Users/anthonydade/.pub-cache/hosted/pub.dev/webdriver-3.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
     },
     {
       "name": "flutter_clean_test",
@@ -206,7 +152,7 @@
       "languageVersion": "3.2"
     }
   ],
-  "generated": "2024-02-01T18:37:10.752787Z",
+  "generated": "2024-02-01T19:36:52.142290Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }

@@ -1,0 +1,4 @@
+#Thu Feb 01 13:02:20 EST 2024
+base.0=/Users/anthonydade/Documents/testEnviornment/flutter_clean_test/flutter_clean_test/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
